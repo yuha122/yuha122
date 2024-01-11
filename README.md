@@ -12,11 +12,6 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha122&show_icons=true&theme=catppuccin_latte&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha122&layout=compact&theme=catppuccin_latte)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee)](https://solved.ac/yuhalee/)
 
 <h3>Contact</h3>
