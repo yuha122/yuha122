@@ -27,7 +27,7 @@
 
 <div align=left>
 <h2>Contact</h2>
- <a href="thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
+ <h4>Email</h4><a href="thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
 </div>
 
 
