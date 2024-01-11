@@ -2,6 +2,8 @@
  <h1>Yuha Lee&nbsp&nbsp&nbsp<a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>&nbsp<a href="https://velog.io/@yuhalee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yuhalee"/></a></h1>
 </div>
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee">
+
 <div align=left>
 
 ### Personal Info
@@ -17,7 +19,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 </div>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee">
+
 
 
 
