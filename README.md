@@ -1,10 +1,12 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7ea5ac&height=150&section=header&text=Call%20me%20yuha122.&strokeWidth=1&stroke=5f848a&fontColor=ffffff&fontSize=90"/>
+</div>
  <br>
  <br>
  <br>
- 
-<h2>Tech Stack </h2><br> 
+
+<div align=left>
+<h2>Tech Stack </h2>
 <details>
 <summary>
  Languages 
@@ -18,10 +20,10 @@
  <summary>
   Platforms
  </summary>
- <br>
-
-  ![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+ 
+ ![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 </details>
+</div>
 
 
 
@@ -31,6 +33,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee)](https://solved.ac/yuhalee/)
 
-
-</div>
 
