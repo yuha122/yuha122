@@ -10,15 +10,15 @@
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) <br>
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 
-<h3>Contact</h3>
-<a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
-</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha122&layout=compact)](https://github.com/yuha122/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee)](https://solved.ac/yuhalee/)
 
 
-
+<h3>Contact</h3>
+<a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
+</div>
 
 
 
