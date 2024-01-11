@@ -1,8 +1,10 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7ea5ac&height=150&section=header&text=Call%20me%20yuha122.&strokeWidth=1&stroke=5f848a&fontColor=ffffff&fontSize=90"/>
+ <br>
+  
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Languages 
 </summary>
    <br>
   
