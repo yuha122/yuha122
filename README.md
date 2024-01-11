@@ -5,9 +5,9 @@
 <div align=left>
 
 ### Personal Info
-    Hongik University<br>
-    Majoring in Computer Engineering<br>
-    4.2 GPA<br>
+   >>Hongik University<br>
+   >>Majoring in Computer Engineering<br>
+   >>4.2 GPA<br>
 ### Languages
  
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
