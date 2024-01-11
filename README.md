@@ -27,7 +27,7 @@
 
 <div align=left>
 <h2>Contact</h2>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com)](mailto:thisisyuhalee@gmail.com)
+<a href="mailto:thisisyuhalee@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
 </div>
 
 
