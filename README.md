@@ -3,3 +3,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha122&show_icons=true&theme=catppuccin_latte&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha122&hide_progress=true&theme=catppuccin_latte)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuha122&repo=github-readme-stats)](https://github.com/yuha122/github-readme-stats)
