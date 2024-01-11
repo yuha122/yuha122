@@ -7,6 +7,7 @@
 ### Personal Info
    >Hongik University<br>
    >Majoring in Computer Engineering<br>
+   >Expected to graduate in 2026
    >4.2 GPA<br>
    
 ### Languages
