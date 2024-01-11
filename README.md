@@ -1,6 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7ea5ac&height=150&section=header&text=Call%20me%20yuha122.&strokeWidth=1&stroke=5f848a&fontColor=ffffff&fontSize=90"/>
-</div>
+
  <br>
  <br>
 
@@ -17,7 +17,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee)](https://solved.ac/yuhalee/)
 
-<h3>Contact></h3>
+<h3>Contact</h3>
 <a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
 </div>
 
