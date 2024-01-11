@@ -2,7 +2,6 @@
  <h1>Yuha Lee</h1>
 </div>
  <br>
- <br>
 
 <div align=left>
 <h3>Languages</h3>
