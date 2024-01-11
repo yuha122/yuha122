@@ -1,5 +1,5 @@
 <div align=center>
- <h1>Yuha Lee</h1>
+ <h1>Yuha Lee <a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a></h1>
 </div>
  <br>
 
@@ -14,9 +14,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuhalee)](https://solved.ac/yuhalee/)
 
 
-<h3>Contact</h3>
-<a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
-</div>
+
 
 
 
