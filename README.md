@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha122&layout=compact&theme=catppuccin_latte)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuhalee](https://solved.ac/yuhalee)
 
 </div>
 
