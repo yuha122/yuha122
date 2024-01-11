@@ -1,5 +1,5 @@
 <div align=center>
- <h2>Yuha Lee <a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a></h2>
+ ##Yuha Lee <a href="mailto:thisisyuhalee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thisisyuhalee@gmail.com"/></a>
 </div>
  <br>
 
